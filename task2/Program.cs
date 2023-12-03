@@ -24,7 +24,6 @@ void PrintArray(int[] array)
     System.Console.WriteLine("[" + string.Join(", ", array) + "]");
 }
 
-// int size = ReadInt("Введите размер массива: ");
 // Объявим массив, который равен работе метода GenerateArray, внутрь метода мы отправим
 // 1. размер генерируемого массива
 // 2. левую границу генерации.
